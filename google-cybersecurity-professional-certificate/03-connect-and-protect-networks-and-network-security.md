@@ -25,4 +25,4 @@ intrusion involves network traffic. Understanding how attacks
 traverse networks is essential for detection.
 
 ## Date Completed
-July 2026
+July 1, 2026 
